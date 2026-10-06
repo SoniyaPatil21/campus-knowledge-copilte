@@ -1,0 +1,6 @@
+{
+  "name": "Campus Knowledge Copilot",
+  "description": "AI-powered campus knowledge assistant that allows students to ask questions and receive accurate answers with exact citations from official institutional documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
